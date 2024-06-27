@@ -4,11 +4,7 @@ I completed my B.Tech from [JNTUH Affiliated Hyderabad  St.PETER'S ENGINEERING C
 ]. Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.
 
 **My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+
 
  **I am open to**:
 
