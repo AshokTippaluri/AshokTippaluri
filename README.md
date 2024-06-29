@@ -10,8 +10,7 @@ I completed my B.Tech from [JNTUH Affiliated Hyderabad  St.PETER'S ENGINEERING C
 
 - any collaboration work,
 - DevOps projects(development or research),
-- research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- research internships
 
 ## Skills:
 
