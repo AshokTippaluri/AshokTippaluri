@@ -5,19 +5,22 @@
 I completed my B.Tech from [JNTUH Affiliated Hyderabad  St.PETER'S ENGINEERING COLLEGE(https://spechyd.ac.in/)
 ]. Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.
 
-**My Research Interest**:
-
+**My Interest**:
+1. Kubernetes
+2. Jenkins
+3. Terraform
+4. Amazon Web Services (AWS)
+5. Monitoring Tools (Prometheus, Sensu, Zabbix)
 
  **I am open to**:
 
-- any collaboration work,
+- Any collaboration work,
 - DevOps projects(development or research),
-- research internships
+- Research internships
 
 ## Skills:
 
 #### Languages:
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
