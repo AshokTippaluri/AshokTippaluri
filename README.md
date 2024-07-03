@@ -1,16 +1,16 @@
-# Site reliability engineering (SRE)
+### Site reliability engineering (SRE)
 
 ### Hi there, I'm [Ashok_Tippaluri](https://durgeshsamariya.github.io) 👋
 
-I completed my B.Tech from [JNTUH Affiliated Hyderabad  St.PETER'S ENGINEERING COLLEGE(https://spechyd.ac.in/)
-]. Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.
+I completed my B.Tech from [JNTUH Affiliated Hyderabad  St.PETER'S ENGINEERING COLLEGE(https://spechyd.ac.in/)]. Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.
 
 **My Interest**:
 1. Kubernetes
-2. Jenkins
-3. Terraform
-4. Amazon Web Services (AWS)
-5. Monitoring Tools (Prometheus, Sensu, Zabbix)
+2. [Docker](https://github.com/AshokTippaluri/Docker_project)
+3. Jenkins
+4. Terraform
+5. Amazon Web Services (AWS)
+6. Monitoring Tools (Prometheus, Sensu, Zabbix)
 
  **I am open to**:
 
