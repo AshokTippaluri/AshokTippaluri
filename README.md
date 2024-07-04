@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok Chandra Reddy Tippaluri</h1>
-<h3 align="center">I completed my B.Tech from [JNTUH Affiliated Hyderabad St.PETER'S ENGINEERING COLLEGE(https://spechyd.ac.in/)]. Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.</h3>
+<h3 align="center">I completed my B.Tech from [JNTUH Affiliated Hyderabad St.PETER'S ENGINEERING COLLEGE(https://spechyd.ac.in/)]. 
+  
+Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashoktippaluri&label=Profile%20views&color=0e75b6&style=flat" alt="ashoktippaluri" /> </p>
 
