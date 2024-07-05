@@ -10,9 +10,14 @@ Apart from that, I am a seasonal open-source explorer who loves writing articles
 - 🔭 I’m currently working on [Docker](https://github.com/AshokTippaluri/Docker_project)
 
 - 🌱 I’m currently learning
-    1. Jenkins
-    2. Linux
-    3. DevOps Tools
+    1. AWS
+    3. Linux
+    4. GIT
+    5. [Docker](https://github.com/AshokTippaluri/Docker_project)
+    6. Kubernetes
+    7. [Jenkins](https://github.com/AshokTippaluri/Jenkins_project)
+    8. Terraform
+    9. DevOps Tools
 
 - 👯 I’m looking to collaborate on **Kubernetes**
 
