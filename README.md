@@ -1,4 +1,12 @@
-## Hi 👋, I'm Ashok Chandra Reddy Tippaluri</h1>
+## Hi 👋, I'm Ashok Chandra Reddy Tippaluri (DEVOPS/SRE)
+
+I have accumulated four years of experience working with a diverse range of DevOps tools and technologies. My expertise includes cloud computing platforms, such as AWS and Azure, where I have managed infrastructure and deployed scalable applications. I am proficient in Kubernetes for orchestrating containerized applications and have hands-on experience with Docker for creating and managing containers. Additionally, I have utilized Jenkins for continuous integration and continuous deployment (CI/CD) pipelines, ensuring seamless and efficient software delivery.
+
+My skill set also extends to various monitoring tools, which I have employed to maintain system reliability and performance. These tools include Prometheus, Grafana, and ELK Stack, which have enabled me to monitor and troubleshoot complex environments effectively.
+
+As a passionate and enthusiastic learner, I am committed to staying updated with the latest advancements in DevOps. I continuously explore new tools and technologies, particularly those related to automation, to enhance my skill set and drive innovation in my work. My dedication to learning and adapting to new methodologies ensures that I can deliver cutting-edge solutions and contribute effectively to any team.
+
+
 ### I completed my B.Tech from [JNTUH Affiliated Hyderabad St.PETER'S ENGINEERING COLLEGE(https://spechyd.ac.in/)]. 
   
 Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.</h3>
