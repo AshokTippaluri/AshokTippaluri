@@ -143,18 +143,10 @@ Automation
 
 
 <p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashoktippaluri&show_icons=true&locale=en" alt="ashoktippaluri" />
+</p>
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashoktippaluri&show_icons=true&locale=en&layout=compact" alt="ashoktippaluri" />
 </p>
 
-<br>
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashoktippaluri&show_icons=true&locale=en" alt="ashoktippaluri" />
-</p>
-
-<br>
-
-<p align="left">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashoktippaluri&" alt="ashoktippaluri" />
-</p>
 
