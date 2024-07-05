@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashok Chandra Reddy Tippaluri</h1>
-<h3 align="center">I completed my B.Tech from [JNTUH Affiliated Hyderabad St.PETER'S ENGINEERING COLLEGE(https://spechyd.ac.in/)]. 
+## Hi 👋, I'm Ashok Chandra Reddy Tippaluri</h1>
+### I completed my B.Tech from [JNTUH Affiliated Hyderabad St.PETER'S ENGINEERING COLLEGE(https://spechyd.ac.in/)]. 
   
 Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.</h3>
 
@@ -9,7 +9,10 @@ Apart from that, I am a seasonal open-source explorer who loves writing articles
 
 - 🔭 I’m currently working on [Docker](https://github.com/AshokTippaluri/Docker_project)
 
-- 🌱 I’m currently learning **Jenkins, Linux, DevOps Tools**
+- 🌱 I’m currently learning
+    1. Jenkins
+    2. Linux
+    3. DevOps Tools
 
 - 👯 I’m looking to collaborate on **Kubernetes**
 
