@@ -3,11 +3,7 @@
 ### Experience and Skills:
 Years of Experience => 4 years in DevOps.
 
-Cloud Platforms => AWS <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> 
-  &nbsp;, Azure - Managed infrastructure and deployed scalable applications.
+Cloud Platforms => AWS , Azure - Managed infrastructure and deployed scalable applications.
 
 Container Orchestration => Kubernetes - Orchestrating containerized applications.
 
