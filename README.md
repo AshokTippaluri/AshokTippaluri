@@ -2,30 +2,48 @@
 
 ### Experience and Skills:
 Years of Experience => 4 years in DevOps.
+
 Cloud Platforms => AWS, Azure - Managed infrastructure and deployed scalable applications.
+
 Container Orchestration => Kubernetes - Orchestrating containerized applications.
+
 Container Management => Docker - Creating and managing containers.
+
 CI/CD Pipelines => Jenkins - Ensuring seamless and efficient software delivery.
+
 Monitoring Tools => Prometheus, Grafana, ELK Stack - Monitoring and troubleshooting complex environments.
+
 
 ### Learning and Innovation:
 Continuous Learning => Stays updated with latest DevOps advancements and explores new tools and technologies.
+
 Automation Focus => Interested in tools and technologies related to automation.
+
 Dedication => Committed to delivering cutting-edge solutions and contributing effectively to teams.
 
+
 ### Education:
+
 Degree => Bachelor of Technology (B.Tech) from St. Peter's Engineering College, Hyderabad (affiliated with JNTUH).
+
 Skills Acquired => Strong foundation in engineering principles, technical, and analytical abilities.
 
 ### Additional Activities:
+
 Open-Source Contribution => Writes articles on open-source, DevOps, productivity, and personal development.
+
 Current Projects => Working on Docker.
+
 Learning Focus => AWS, Linux, GIT, Docker, Kubernetes, Jenkins, Terraform, DevOps tools.
+
 Collaboration Interests => Kubernetes.
+
 Seeking Help With => Terraform.
+
 Expertise Areas => AWS, Linux.
 
-Contact:
+### Contact:
+
 Email: [ashokchandrareddy5@gmail.com](ashokchandrareddy5@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
