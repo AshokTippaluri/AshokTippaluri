@@ -8,11 +8,8 @@ As a passionate and enthusiastic learner, I am committed to staying updated with
 
 I completed my Bachelor of Technology (B.Tech) degree from St. Peter's Engineering College in Hyderabad, which is affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH). My time at St. Peter's Engineering College provided me with a solid foundation in engineering principles and practical skills, fostering both my technical and analytical abilities. The comprehensive curriculum and hands-on learning experiences at this esteemed institution have significantly contributed to my professional growth and prepared me for a successful career in the tech industry. For more information about the college, you can visit their [official website](https://spechyd.ac.in/).
 
-Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.</h3>
+Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashoktippaluri&label=Profile%20views&color=0e75b6&style=flat" alt="ashoktippaluri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoktippaluri" alt="ashoktippaluri" /></a> </p>
 
 - 🔭 I’m currently working on [Docker](https://github.com/AshokTippaluri/Docker_project)
 
@@ -148,5 +145,11 @@ Automation
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashoktippaluri&show_icons=true&locale=en&layout=compact" alt="ashoktippaluri" />
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashoktippaluri&label=Profile%20views&color=0e75b6&style=flat" alt="ashoktippaluri" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoktippaluri" alt="ashoktippaluri" /></a> </p>
+
 
 
