@@ -1,35 +1,32 @@
 ## Hi 👋, I'm Ashok Chandra Reddy Tippaluri (DEVOPS/SRE)
 
-I have accumulated four years of experience working with a diverse range of DevOps tools and technologies. My expertise includes cloud computing platforms, such as AWS and Azure, where I have managed infrastructure and deployed scalable applications. I am proficient in Kubernetes for orchestrating containerized applications and have hands-on experience with Docker for creating and managing containers. Additionally, I have utilized Jenkins for continuous integration and continuous deployment (CI/CD) pipelines, ensuring seamless and efficient software delivery.
+### Experience and Skills:
+Years of Experience => 4 years in DevOps.
+Cloud Platforms => AWS, Azure - Managed infrastructure and deployed scalable applications.
+Container Orchestration => Kubernetes - Orchestrating containerized applications.
+Container Management => Docker - Creating and managing containers.
+CI/CD Pipelines => Jenkins - Ensuring seamless and efficient software delivery.
+Monitoring Tools => Prometheus, Grafana, ELK Stack - Monitoring and troubleshooting complex environments.
 
-My skill set also extends to various monitoring tools, which I have employed to maintain system reliability and performance. These tools include Prometheus, Grafana, and ELK Stack, which have enabled me to monitor and troubleshoot complex environments effectively.
+### Learning and Innovation:
+Continuous Learning => Stays updated with latest DevOps advancements and explores new tools and technologies.
+Automation Focus => Interested in tools and technologies related to automation.
+Dedication => Committed to delivering cutting-edge solutions and contributing effectively to teams.
 
-As a passionate and enthusiastic learner, I am committed to staying updated with the latest advancements in DevOps. I continuously explore new tools and technologies, particularly those related to automation, to enhance my skill set and drive innovation in my work. My dedication to learning and adapting to new methodologies ensures that I can deliver cutting-edge solutions and contribute effectively to any team.
+### Education:
+Degree => Bachelor of Technology (B.Tech) from St. Peter's Engineering College, Hyderabad (affiliated with JNTUH).
+Skills Acquired => Strong foundation in engineering principles, technical, and analytical abilities.
 
-I completed my Bachelor of Technology (B.Tech) degree from St. Peter's Engineering College in Hyderabad, which is affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH). My time at St. Peter's Engineering College provided me with a solid foundation in engineering principles and practical skills, fostering both my technical and analytical abilities. The comprehensive curriculum and hands-on learning experiences at this esteemed institution have significantly contributed to my professional growth and prepared me for a successful career in the tech industry. For more information about the college, you can visit their [official website](https://spechyd.ac.in/).
+### Additional Activities:
+Open-Source Contribution => Writes articles on open-source, DevOps, productivity, and personal development.
+Current Projects => Working on Docker.
+Learning Focus => AWS, Linux, GIT, Docker, Kubernetes, Jenkins, Terraform, DevOps tools.
+Collaboration Interests => Kubernetes.
+Seeking Help With => Terraform.
+Expertise Areas => AWS, Linux.
 
-Apart from that, I am a seasonal open-source explorer who loves writing articles (on open-source, DEVOPS, Productivity, and Personal Development) and contributing to open source.
-
-
-- 🔭 I’m currently working on [Docker](https://github.com/AshokTippaluri/Docker_project)
-
-- 🌱 I’m currently learning
-    1. AWS
-    3. Linux
-    4. GIT
-    5. [Docker](https://github.com/AshokTippaluri/Docker_project)
-    6. Kubernetes
-    7. [Jenkins](https://github.com/AshokTippaluri/Jenkins_project)
-    8. Terraform
-    9. DevOps Tools
-
-- 👯 I’m looking to collaborate on **Kubernetes**
-
-- 🤝 I’m looking for help with **Terraform**
-
-- 💬 Ask me about **AWS, Linux**
-
-- 📫 How to reach me **ashokchandrareddy5@gmail.com**
+Contact:
+Email: [ashokchandrareddy5@gmail.com](ashokchandrareddy5@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 
