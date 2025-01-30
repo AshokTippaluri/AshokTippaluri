@@ -1,7 +1,3 @@
-Here’s a creatively rewritten version of your profile, with added emphasis on Docker, Kubernetes, Groovy, Jenkins, and Terraform. I’ve also infused some creativity to make it more engaging and visually appealing:
-
----
-
 ## 🚀 Hi, I'm [Ashok Chandra Reddy Tippaluri](https://ashoktippaluri.github.io/)  
 ### **DevOps Engineer | SRE | Automation Enthusiast**
 
@@ -179,5 +175,3 @@ With **4 years of experience in DevOps**, I thrive on building scalable, resilie
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoktippaluri" alt="ashoktippaluri" /></a> </p>
 
 ---
-
-This version adds more personality, highlights your expertise in Docker, Kubernetes, Jenkins, Groovy, and Terraform, and organizes the content for better readability. Let me know if you’d like further tweaks! 🚀
