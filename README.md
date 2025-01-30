@@ -1,9 +1,13 @@
-## Hi 👋, I'm [Ashok Chandra Reddy Tippaluri](https://ashoktippaluri.github.io/) (DEVOPS/SRE)
+## Hi 👋, I'm [Ashok Chandra Reddy Tippaluri](https://ashoktippaluri.github.io/) (DevOps/SRE)
 
-### Experience and Skills:
-Years of Experience => 4 years in DevOps.
+### About Me
+With **4 years of experience in DevOps**, I specialize in designing, implementing, and managing scalable and efficient infrastructure. I am passionate about automation, cloud technologies, and continuous learning to stay ahead in the ever-evolving tech landscape.
 
-### Cloud Platforms
+---
+
+### Technical Skills
+
+#### Cloud Platforms
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -18,7 +22,7 @@ Years of Experience => 4 years in DevOps.
   </a>
 </p>
 
-### Containers and Orchestration
+#### Containers and Orchestration
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -33,21 +37,21 @@ Years of Experience => 4 years in DevOps.
   </a>
 </p>
 
-### CI/CD
+#### CI/CD
 <p align="left">
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
 </p>
 
-### Version Control
+#### Version Control
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
 
-### Programming Languages
+#### Programming Languages
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -58,7 +62,7 @@ Years of Experience => 4 years in DevOps.
   </a>
 </p>
 
-### Databases
+#### Databases
 <p align="left">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
@@ -81,7 +85,7 @@ Years of Experience => 4 years in DevOps.
   </a>
 </p>
 
-### Monitoring and Logging
+#### Monitoring and Logging
 <p align="left">
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
@@ -92,7 +96,7 @@ Years of Experience => 4 years in DevOps.
   </a>
 </p>
 
-### Operating Systems and Shells
+#### Operating Systems and Shells
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -103,59 +107,51 @@ Years of Experience => 4 years in DevOps.
   </a>
 </p>
 
-### Message Brokers
+#### Message Brokers
 <p align="left">
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
   </a>
 </p>
 
-### Automation
+#### Automation
 <p align="left">
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
 </p>
 
+---
 
+### Professional Approach
+- **Continuous Learning**: Actively staying updated with the latest advancements in DevOps and exploring new tools and technologies.
+- **Automation Focus**: Passionate about leveraging automation to streamline processes and improve efficiency.
+- **Dedication**: Committed to delivering cutting-edge solutions and contributing effectively to team success.
 
-### Learning and Innovation:
-Continuous Learning => Stays updated with latest DevOps advancements and explores new tools and technologies.
+---
 
-Automation Focus => Interested in tools and technologies related to automation.
+### Education
+- **Bachelor of Technology (B.Tech)** from St. Peter's Engineering College, Hyderabad (affiliated with JNTUH).
+- Acquired a strong foundation in engineering principles, technical expertise, and analytical abilities.
 
-Dedication => Committed to delivering cutting-edge solutions and contributing effectively to teams.
+---
 
+### Additional Activities
+- **Open-Source Contributions**: Writing articles on open-source, DevOps, productivity, and personal development.
+- **Current Projects**: Working on Docker-related projects.
+- **Learning Focus**: Deepening knowledge in AWS, Linux, GIT, Docker, Kubernetes, Jenkins, Terraform, and other DevOps tools.
+- **Collaboration Interests**: Exploring Kubernetes and related technologies.
+- **Seeking Help With**: Enhancing expertise in Terraform.
+- **Expertise Areas**: AWS and Linux.
 
-### Education:
+---
 
-Degree => Bachelor of Technology (B.Tech) from St. Peter's Engineering College, Hyderabad (affiliated with JNTUH).
+### Contact
+- **Email**: [ashokchandrareddy5@gmail.com](mailto:ashokchandrareddy5@gmail.com)
 
-Skills Acquired => Strong foundation in engineering principles, technical, and analytical abilities.
+---
 
-### Additional Activities:
-
-Open-Source Contribution => Writes articles on open-source, DevOps, productivity, and personal development.
-
-Current Projects => Working on Docker.
-
-Learning Focus => AWS, Linux, GIT, Docker, Kubernetes, Jenkins, Terraform, DevOps tools.
-
-Collaboration Interests => Kubernetes.
-
-Seeking Help With => Terraform.
-
-Expertise Areas => AWS, Linux.
-
-### Contact:
-
-Email: [ashokchandrareddy5@gmail.com](ashokchandrareddy5@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-
-
-
-
+### GitHub Stats
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashoktippaluri&show_icons=true&locale=en" alt="ashoktippaluri" />
 </p>
@@ -163,10 +159,7 @@ Email: [ashokchandrareddy5@gmail.com](ashokchandrareddy5@gmail.com)
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashoktippaluri&show_icons=true&locale=en&layout=compact" alt="ashoktippaluri" />
 </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashoktippaluri&label=Profile%20views&color=0e75b6&style=flat" alt="ashoktippaluri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoktippaluri" alt="ashoktippaluri" /></a> </p>
-
-
 
