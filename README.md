@@ -1,7 +1,3 @@
-Here’s a refined version of your profile with improved structure, grammar, and flow while maintaining the original content and intent:
-
----
-
 ## Hi 👋, I'm [Ashok Chandra Reddy Tippaluri](https://ashoktippaluri.github.io/) (DevOps/SRE)
 
 ### About Me
@@ -167,6 +163,3 @@ With **4 years of experience in DevOps**, I specialize in designing, implementin
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoktippaluri" alt="ashoktippaluri" /></a> </p>
 
----
-
-This version is more concise, professional, and easier to read while retaining all the essential details. Let me know if you'd like further adjustments!
