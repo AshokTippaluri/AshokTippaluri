@@ -1,165 +1,124 @@
-## Hi 👋, I'm [Ashok Chandra Reddy Tippaluri](https://ashoktippaluri.github.io/) (DevOps/SRE)
+## 🚀 Hi, I'm [Ashok Chandra Reddy Tippaluri](https://ashoktippaluri.github.io/)  
+### **DevOps Engineer | SRE | Automation Enthusiast**
 
-### About Me
-With **4 years of experience in DevOps**, I specialize in designing, implementing, and managing scalable and efficient infrastructure. I am passionate about automation, cloud technologies, and continuous learning to stay ahead in the ever-evolving tech landscape.
+With **4 years of experience in DevOps**, I thrive on building scalable, resilient, and efficient systems. My passion lies in **automation**, **cloud-native technologies**, and **continuous learning**. I’m always exploring new tools and methodologies to stay ahead in the ever-evolving tech landscape.
+
+---
+### 🛠️ **Technical Skills**
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tools & Technologies</th>
+  </tr>
+  <tr>
+    <td>☁️ <b>Cloud Platforms</b></td>
+    <td>
+      <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+<!--       <a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a> -->
+<!--       <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a> -->
+    </td>
+  </tr>
+  <tr>
+    <td>🐳 <b>Containers & Orchestration</b></td>
+    <td>
+      <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+      <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
+<!--       <a href="https://www.vagrantup.com/"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="40"/></a> -->
+    </td>
+  </tr>
+  <tr>
+    <td>🔄 <b>CI/CD Pipelines</b></td>
+    <td>
+      <a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></a>
+      <a href="https://groovy-lang.org/"><img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" width="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>🏗️ <b>Infrastructure as Code (IaC)</b></td>
+    <td>
+      <a href="https://www.terraform.io/"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>📂 <b>Version Control</b></td>
+    <td>
+      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>💻 <b>Programming Languages</b></td>
+    <td>
+      <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
+      <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>Databases</b></td>
+    <td>
+      <a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/></a>
+      <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+      <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+      <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>📊 <b>Monitoring & Logging</b></td>
+    <td>
+      <a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></a>
+      <a href="https://www.elastic.co/kibana"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>🐧 <b>Operating Systems & Shells</b></td>
+    <td>
+      <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
+      <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>📨 <b>Message Brokers</b></td>
+    <td>
+      <a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Automation</b></td>
+    <td>
+      <a href="https://zapier.com"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Technical Skills
-
-#### Cloud Platforms
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> 
-  &nbsp;
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a> 
-  &nbsp;
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-</p>
-
-#### Containers and Orchestration
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
-  </a>
-</p>
-
-#### CI/CD
-<p align="left">
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-</p>
-
-#### Version Control
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
-
-#### Programming Languages
-<p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
-
-#### Databases
-<p align="left">
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
-
-#### Monitoring and Logging
-<p align="left">
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-  </a>
-</p>
-
-#### Operating Systems and Shells
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
-
-#### Message Brokers
-<p align="left">
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-  </a>
-</p>
-
-#### Automation
-<p align="left">
-  <a href="https://zapier.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-  </a>
-</p>
+### 🌟 **Professional Approach**
+- **Continuous Learning**: Always exploring the latest in DevOps, Kubernetes, Terraform, and beyond.
+- **Automation Advocate**: Building robust CI/CD pipelines with Jenkins and Groovy to streamline workflows.
+- **Cloud-Native Enthusiast**: Leveraging Docker and Kubernetes to create scalable, containerized solutions.
+- **Infrastructure as Code**: Crafting reusable and modular infrastructure with Terraform.
 
 ---
 
-### Professional Approach
-- **Continuous Learning**: Actively staying updated with the latest advancements in DevOps and exploring new tools and technologies.
-- **Automation Focus**: Passionate about leveraging automation to streamline processes and improve efficiency.
-- **Dedication**: Committed to delivering cutting-edge solutions and contributing effectively to team success.
-
----
-
-### Education
+### 🎓 **Education**
 - **Bachelor of Technology (B.Tech)** from St. Peter's Engineering College, Hyderabad (affiliated with JNTUH).
-- Acquired a strong foundation in engineering principles, technical expertise, and analytical abilities.
+- Built a strong foundation in engineering principles, problem-solving, and technical expertise.
 
 ---
 
-### Additional Activities
-- **Open-Source Contributions**: Writing articles on open-source, DevOps, productivity, and personal development.
-- **Current Projects**: Working on Docker-related projects.
-- **Learning Focus**: Deepening knowledge in AWS, Linux, GIT, Docker, Kubernetes, Jenkins, Terraform, and other DevOps tools.
-- **Collaboration Interests**: Exploring Kubernetes and related technologies.
-- **Seeking Help With**: Enhancing expertise in Terraform.
-- **Expertise Areas**: AWS and Linux.
+### 🚀 **Current Focus**
+- **Docker & Kubernetes**: Building and orchestrating containerized applications.
+- **Jenkins & Groovy**: Automating CI/CD pipelines for seamless deployments.
+- **Terraform**: Managing cloud infrastructure as code for scalability and reliability.
+- **Open-Source Contributions**: Sharing knowledge through articles on DevOps, productivity, and personal growth.
 
 ---
 
-### Contact
+### 📫 **Let’s Connect!**
 - **Email**: [ashokchandrareddy5@gmail.com](mailto:ashokchandrareddy5@gmail.com)
+- **GitHub**: [ashoktippaluri](https://github.com/ashoktippaluri)
 
 ---
 
-### GitHub Stats
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashoktippaluri&show_icons=true&locale=en" alt="ashoktippaluri" />
-</p>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashoktippaluri&show_icons=true&locale=en&layout=compact" alt="ashoktippaluri" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashoktippaluri&label=Profile%20views&color=0e75b6&style=flat" alt="ashoktippaluri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoktippaluri" alt="ashoktippaluri" /></a> </p>
 
