@@ -162,16 +162,4 @@ With **4 years of experience in DevOps**, I thrive on building scalable, resilie
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashoktippaluri&show_icons=true&locale=en" alt="ashoktippaluri" />
-</p>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashoktippaluri&show_icons=true&locale=en&layout=compact" alt="ashoktippaluri" />
-</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashoktippaluri&label=Profile%20views&color=0e75b6&style=flat" alt="ashoktippaluri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoktippaluri" alt="ashoktippaluri" /></a> </p>
-
----
